@@ -19,7 +19,7 @@ export const Projects = () => {
                     <ul>
                       <li>Designed and developed a portfolio website using React, incorporating HTML, CSS, and JavaScript to create a dynamic and visually appealing online presence.</li>
                       <li>Create and modify the project using Generative AI (ChatGPT).</li>
-                      <li>Published the portfolio website to the public using Cloudflare, accessible at <a href="http://www.jisungwoo.com" target="_blank" rel="noopener noreferrer">www.jisungwoo.com</a>.</li>
+                      <li>Published the portfolio website to the public using github, accessible at <a href="https://jisungwoo.github.io/jisung_website/" target="_blank" rel="noopener noreferrer">https://jisungwoo.github.io/jisung_website/</a>.</li>
                       <li>Special thanks to YouTube Channel "webdecoded" for great tutorial and providing html, css, and javascript code to work with.</li><br /><br />
                     </ul>
                     <h3>Website Development – Leader</h3>
