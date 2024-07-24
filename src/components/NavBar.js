@@ -32,11 +32,16 @@ export const NavBar = () =>  // Defines a functional component called 'NavBar' f
     setActiveLink(value);
   }
 
+  const refreshPage = (e) => {
+    e.preventDefault();  // Prevent default anchor behavior
+    window.location.reload();  // Refresh the page
+  }
+
   return (
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-        <Navbar.Brand href="/" className="brand-text">
+        <Navbar.Brand href="/" className="brand-text" onClick={refreshPage}>
           Jisung Woo
         </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">

@@ -45,7 +45,7 @@ export const Banner = () => {
       setIndex(prevIndex => prevIndex + 1);
     }
   }
-
+  
   return (
     <section className="banner" id="AboutMe">
       <Container>
@@ -59,9 +59,9 @@ export const Banner = () => {
                   <p>Experienced and innovative Data Engineer with a strong background in IT and data integration in fast-paced environments. Currently, I manage and integrate data from various sources into a Data Warehouse, utilizing ETL tools such as SSIS to ensure data accuracy, completeness, and timeliness. I also handle data migration from SQL Server to Azure Data Factory, facilitating the transition to cloud-based databases. <br /><br />
                   I excel in data automation, data mining, data modeling, and data warehousing, employing ETL/ELT processes to optimize data accessibility for business decisions, processes, and reporting. Additionally, I implement CI/CD pipelines to enhance data engineering workflows and create data visualizations to support analytical insights.<br /><br />
                   A self-driven problem-solver and team player, I am committed to continuous skill development and growth as a Data Engineer. Fluent in English and Korean, I bring strong communication skills and a collaborative approach to every project.</p>
-                <a href="./resume/JisungWoo_Resume.pdf" download>
-                <button onClick={() => console.log('resume')}>My Resume<ArrowRightCircle size={25} /></button>
-                </a>
+                  <a href="/JisungWoo_Resume.pdf" download>
+                    <button onClick={() => console.log('resume')}>My Resume<ArrowRightCircle size={25} /></button>
+                  </a>
               </div>}
             </TrackVisibility>
           </Col>
