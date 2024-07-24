@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jisung_website/static/css/main.360aa67a.css",
-    "main.js": "/jisung_website/static/js/main.7d7b221e.js",
+    "main.js": "/jisung_website/static/js/main.7f0657bf.js",
     "static/js/787.fb771931.chunk.js": "/jisung_website/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/jisung_website/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/jisung_website/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -10,11 +10,11 @@
     "static/media/CentraNo2-Book.ttf": "/jisung_website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/jisung_website/index.html",
     "main.360aa67a.css.map": "/jisung_website/static/css/main.360aa67a.css.map",
-    "main.7d7b221e.js.map": "/jisung_website/static/js/main.7d7b221e.js.map",
+    "main.7f0657bf.js.map": "/jisung_website/static/js/main.7f0657bf.js.map",
     "787.fb771931.chunk.js.map": "/jisung_website/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360aa67a.css",
-    "static/js/main.7d7b221e.js"
+    "static/js/main.7f0657bf.js"
   ]
 }
