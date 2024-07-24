@@ -60,9 +60,9 @@ export const Banner = () => {
                   I excel in data automation, data mining, data modeling, and data warehousing, employing ETL/ELT processes to optimize data accessibility for business decisions, processes, and reporting. Additionally, I implement CI/CD pipelines to enhance data engineering workflows and create data visualizations to support analytical insights.<br /><br />
                   I design and create stored procedures in SQL Server, to automate the scheduling of updates for Power BI dashboards, and to optimize table and attribute design to reduce reliance on DAX language when creating Power BI dashboards<br /><br />
                   As a self-driven problem-solver and team player, I am committed to continuous skill development and growth as a Data Engineer. Fluent in English and Korean, I bring strong communication skills and a collaborative approach to every project.</p>
-                  <a href="/JisungWoo_Resume.pdf" download>
+                  {/* <a href="/JisungWoo_Resume.pdf" download>
                     <button onClick={() => console.log('resume')}>My Resume<ArrowRightCircle size={25} /></button>
-                  </a>
+                  </a> */}
               </div>}
             </TrackVisibility>
           </Col>
